@@ -1,2 +1,2 @@
 # BiblioCrossing
-A tool to check APA 7th edition consistency between in-text citations and the reference list — flagging references that are never cited and citations that are missing from the reference list.
+This tool verifies bibliographic consistency in APA 7th edition documents. It cross-checks every in-text citation against the reference list (and vice versa), flagging two common errors: references listed but never cited in the text, and citations that appear in the text but are missing from the reference list. Designed for editorial review of academic manuscripts, theses, and journal articles.
